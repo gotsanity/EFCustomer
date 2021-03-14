@@ -1,0 +1,7 @@
+USE CustomerData;
+GO
+
+DROP PROCEDURE IF EXISTS AddCustomer;
+GO
+DROP PROCEDURE IF EXISTS EditCustomer;
+GO
